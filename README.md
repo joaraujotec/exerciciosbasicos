@@ -1,2 +1,2 @@
-# exerciciosbasicos
+# Exercícios básicos
 portugol
